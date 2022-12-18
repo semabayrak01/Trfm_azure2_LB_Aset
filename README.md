@@ -68,4 +68,4 @@ As last statement I share the sources that is used in the project.
 | [azurerm_subnet.my_subnet_backend](https://registry.terraform.io/providers/hashicorp/azurerm/3.0.0/docs/resources/subnet) | script resource |
 | [azurerm_subnet.my_subnet_dmz](https://registry.terraform.io/providers/hashicorp/azurerm/3.0.0/docs/resources/subnet) | script resource |
 | [azurerm_subnet.my_subnet_frontend](https://registry.terraform.io/providers/hashicorp/azurerm/3.0.0/docs/resources/subnet) | script resource |
-| [azurerm_virtual_machine.frontend](https://registry.terraform.io/providers/hashicorp/azurerm/3.0.0/docs/resources/virtual_machine) | script re
+| [azurerm_virtual_machine.frontend](https://registry.terraform.io/providers/hashicorp/azurerm/3.0.0/docs/resources/virtual_machine) | script resource |
